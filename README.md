@@ -1,4 +1,4 @@
-- 👋 Hi, We are @ViruSecc
+- 👋 Hi, We are @ViruSec
 - 👀 We are a team of like minded cybersecurity / ethical hackers and are globally certified in the space.
 - 🌱 You can find all our paid scripts and other material on telegram @ViruSec_Support Our telegram bot is - @ViruSec_bot
 - 😄 Pronouns: They/Them
